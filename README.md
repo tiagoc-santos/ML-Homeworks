@@ -1,7 +1,7 @@
 # Machine Learning Homeworks
 Machine Learning 2024/2025 Homeworks
 
-Here you can find the homework's guidelines, our solutions and the mandatory report (in portuguese).
+Here you can find the homework's guidelines, our solutions and the mandatory report.
 
 ## Grades:
 
