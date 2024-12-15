@@ -11,4 +11,4 @@ Here you can find the homework's statement, our solutions and the mandatory repo
 
 - **Homework 3**: 19.9/20
 
-- **Homework 4**: ?/20
+- **Homework 4**: 18.25/20
